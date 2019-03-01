@@ -24,7 +24,7 @@ Welcome Dinner ~**1hr**||||**12:30 - 14:00** Stop Go Continues!
 - [Schedule](../)
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
-- Introduction to Pair Programming
+- [Introduction to Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
 - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 - [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
 
