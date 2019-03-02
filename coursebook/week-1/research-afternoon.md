@@ -26,9 +26,3 @@
   (Hint: think about semantic HTML, managing focus, adding key handlers, adding aria attributes)
 2. Refactor one of your team's websites (or one from the rest of your cohort if necessary) to reflect what you've learned
 
-## CSS
-1. Research:
-  + responsive vs mobile-first design
-  + how to write CSS with BEM
-2. Refactor one of your team's websites to reflect what you've learned
-
