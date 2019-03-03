@@ -29,7 +29,7 @@ Welcome Dinner ~**1hr**||||**12:30 - 14:00** Stop Go Continues!
 - [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
 
 #### Day 2
-- [Array methods morning challenge](https://github.com/m4v15/array-methods)
+- [Array methods morning challenge](https://github.com/facn5/array-methods)
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 - [Introduce Project](./project.md)
 - [Introduce Research topics](./research-afternoon.md)
