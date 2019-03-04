@@ -19,10 +19,8 @@
   + site and user are always separated by a snail/small duck/AT symbol (@);
   + site is always done with at least 3 alphabetical characters, a dot and at least 2 more alphabetical characters
 
-## Accessibility
-1. Research how to:
-  + write an accessible navbar
-  + write an accessible modal  
-  (Hint: think about semantic HTML, managing focus, adding key handlers, adding aria attributes)
-2. Refactor one of your team's websites (or one from the rest of your cohort if necessary) to reflect what you've learned
-
+## CSS
+1. Research:
+  + responsive vs mobile-first design
+  + how to write CSS with BEM
+2. Refactor one of your team's websites to reflect what you've learned
