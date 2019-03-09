@@ -22,7 +22,7 @@ Callback WS| Intro to NPM|||Presentation planning
 
 - [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
 - [API workshop](https://github.com/m4v15/ws-github-api) : making API requests in the browser, working with JSON, chaining API requests
-- [Callback Worshop](https://github.com/shiryz/call-it-back)
+- [Callback Workshop](https://github.com/shiryz/call-it-back)
 - [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
 
