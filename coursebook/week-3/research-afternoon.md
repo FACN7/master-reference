@@ -18,5 +18,5 @@
 - Why is test coverage useful?
 - What is nyc?
 - How would you use them to improve your testing?
-- Use Istanbul/nyc to calculate your code coverage for the TDD workshop.
+- Use nyc to calculate your code coverage for the TDD workshop.
 - Does 100% coverage mean you have tested everything correctly?
