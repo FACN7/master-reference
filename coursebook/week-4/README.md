@@ -40,5 +40,5 @@ Intro to servers and Node.js & [Node Intro Workshop](https://github.com/founders
 - [Modularisation morning challenge](./morning-challenge-day-3.md)
 
 ### Day 5
--[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
+- [Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 - [Team retrospectives](./retrospectives.md#team-retrospective)
