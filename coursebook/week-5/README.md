@@ -23,56 +23,21 @@ Intro to week 2 ~ 0.5h | [Modules workshop](https://github.com/m4v15/going-on-a-
 
 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
 
-### Day 2
-
 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+
+### Day 2
+- [Modules workshop](https://github.com/m4v15/going-on-a-bear-hunt)
 
 - [Introduce Project](./project.md)
 
 - [research topics](./research-afternoon.md)
 
-- 14.45 - 17:00
-  -- [Research Afternoon](./research-afternoon.md)
-
-- 17.00 - 18:00
-  -- Review and Present research topics
 
 ### Day 3
 
-- 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
-
-- 11:00 - 11:15 - [Introduction to linters](./linter.md)
-
-- 11:15 - 13:00 - Projects (planning)
-
-— LUNCH —
-
-- 14:00 - 17:00 - Projects
-
-- 17:00 - 18:00 — Project Demo from alumni / External speaker
+ - [Introduction to linters](./linter.md)
 
 ### Day 4
 
-- 10:00 - 13:00 - Projects
+- [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
-— LUNCH —
-
-- 14:00 - 18:00 - Projects
-
-### Day 5
-
-- 10:00 - 11:00 - Code review
-
-- 11:00 - 12:45 - Respond to issues
-
-- 12:45 - 13:00 - Plan presentations
-
-— LUNCH —
-
-- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
-
-- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
-
-- 15:40-17:00 - Presentations (20 mins per group)
-
-- 17:00-18:00 - External Speaker or Alumni Project Presentation
