@@ -8,7 +8,7 @@ Adding a back end doesn't necessarily make your software more complex. Some of t
 
 It's very important to understand how the server and client relate to each other, and the roles that they'll play in your application – the **Architecting** section explores some of those ideas. Node also comes with its own features and approaches that will be unfamiliar if you've only written client-side code before – the **Engineering** section examines a few of the key ones. 
 
-One of the best things about Node is the ease with which you can incorporate other developers' code into your own projects – the **Packaging** section looks into the tools you'll use to manage external dependencies. And finally, you can't just open your back-end code in a browser – you have to deploy it somewhere. The **Deploying** section looks at some of the places you might deploy your code, and some of the things you'll need to bear in mind if your code's going to run in different environments.
+Finally, to publish your full-stack application you'll need to move on from using GitHub pages to more advanced tools. The **Deploying** section looks at some of the places you might deploy your code, and some of the things you'll need to bear in mind if your code's going to run in different environments.
 
 
 ### Topic 1: Architecting
@@ -26,7 +26,7 @@ One of the best things about Node is the ease with which you can incorporate oth
 
 - *Modules*: Why is it a good idea to modularise your code? What are `require` and `module.exports`? Why can't you use them in the browser? How might you modularise client-side code?
 
-- *Asyncronous functions*: Why should you use asyncronous forms of functions wherever possible in Node? What are error-first callbacks, and why is it important to follow that pattern in your own code? Why should you avoid using `throw` in callbacks? When might you use the syncronous form of a function instead?
+- *Asyncronous functions*: Why should you use asyncronous forms of functions wherever possible in Node? What are error-first callbacks, and why is it important to follow that pattern in your own code? Why should you avoid using `throw` in callbacks? When might you use the synchronous form of a function instead?
 
 - *Input/output (the `fs` and `path` modules)*: What kind of tasks does the `fs` module enable you to perform that you wouldn't be able to in the browser? What are some of the issues of working with paths when accessing a file system? How does the `path` module help, and why should you use it instead of manually writing file paths as strings?
 
