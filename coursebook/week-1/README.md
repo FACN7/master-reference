@@ -13,8 +13,8 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 ---|---|---|---|---
 Welcome fun ~**2hr** |Array methods Morning Challenge ~**1hr**|CSS Morning Challenge ~**1hr**| Projects| Code review (with how to) ~**1hr**
 Intro To PP ~**1hr**|Github Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**1.5h**
-DOM Workshop ~**1hr**|Introduce Project and research ~**1hr**| || Presentation planning ~**0.5h**
-Github Hunt ~**1hr**|Research + Presentations ~**3hr**||| Presentations ~**1h** 
+Accessibility Workshop ~**1hr**|Introduce Project and research ~**1hr**| || Presentation planning ~**0.5h**
+DOM Workshop ~**1hr**|Research + Presentations ~**3hr**||| Presentations ~**1h** 
 Welcome Dinner ~**1hr**|||| Stop Go Continues! ~**2.5h**
 
 ### Links:
@@ -25,8 +25,8 @@ Welcome Dinner ~**1hr**|||| Stop Go Continues! ~**2.5h**
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
 - [Introduction to Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
-- [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
-- [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)  
+- [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/)
+- [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge) 
 
 #### Day 2
 - [Array methods morning challenge](https://github.com/facn5/array-methods)
