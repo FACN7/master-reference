@@ -38,6 +38,5 @@ Callback WS| Intro to NPM|||Presentation planning
 #### DAY 3
 
 - Morning challenges:
-  - [Intro to array methods](https://github.com/m4v15/array-methods)
   - [Array challenges](https://github.com/foundersandcoders/mc-objects-and-arrays)
 
