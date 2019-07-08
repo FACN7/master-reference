@@ -31,7 +31,7 @@ Callback WS| Intro to NPM|||Presentation planning
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
 - [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
-- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- [Intro to NPM](https://github.com/facn6/npm-introduction)
 - [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 
