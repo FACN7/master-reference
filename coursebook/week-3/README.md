@@ -3,18 +3,20 @@
 # Testing week
 
 ## Menu
- - [Learning outcomes](./learning-outcomes.md)
- - [Research topics](./research-afternoon.md)
- - [Project](./project)
+
+- [Learning outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project)
 
 ## Schedule
-Day 1|Day 2|Day 3|Day 4| Day 5 
----|---|---|---|---
-|Intro To Testing ~1h|Traffic Lights Morning Challenge ~**1hr**|Waterfall Morning Challenge ~**1hr**| Projects| Code review ~**1hr**
-|Testing WS ~**2hr**|Pure functions Workshop ~**2hr**|Projects (all day!)|| Respond to issues ~**2hr**
-|Roman Numerals Code Along ~**2hr**|Introduce Project and research ~**1hr**| ||Presentation planning ~**1hr**
-||Research + Presentations ~**3hr**||| Presentations ~**1hr**
-|||||Stop Go Continues! ~**2hr**
+
+| Day 1                              | Day 2                                     | Day 3                                | Day 4    | Day 5                          |
+| ---------------------------------- | ----------------------------------------- | ------------------------------------ | -------- | ------------------------------ |
+| Intro To Testing ~1h               | Traffic Lights Morning Challenge ~**1hr** | Waterfall Morning Challenge ~**1hr** | Projects | Code review ~**1hr**           |
+| Testing WS ~**2hr**                | Pure functions Workshop ~**2hr**          | Projects (all day!)                  |          | Respond to issues ~**2hr**     |
+| Roman Numerals Code Along ~**2hr** | Introduce Project and research ~**1hr**   |                                      |          | Presentation planning ~**1hr** |
+|                                    | Research + Presentations ~**3hr**         |                                      |          | Presentations ~**1hr**         |
+|                                    |                                           |                                      |          | Stop Go Continues! ~**2hr**    |
 
 ### Links
 
@@ -39,4 +41,3 @@ Day 1|Day 2|Day 3|Day 4| Day 5
 #### Day 3
 
 - [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
-

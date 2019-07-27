@@ -8,13 +8,13 @@
 
 ## Schedule
 
-Day 1|Day 2|Day 3|Day 4| Day 5 
----|---|---|---|---
-Intro to week 7 - [learning outcomes](./learning-outcomes.md) ~ 0.25h |  Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this) ~ 1h | Projects ~ 6h | Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation) ~ 1h | Code review ~ 1h |
-Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view) ~ 0.75h | Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session) ~ 2h |  | Projects ~ All day | Respond to issues ~ 2h |
-Workshop on [password management](https://github.com/foundersandcoders/ws-password-management) ~ 2h | || | Presentation planning ~ 0.25h|
-|Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) ~ 2h| | | | Presentations ~ 1h|
-| [Research afternoon](./research-afternoon.md) ~ 2h|| | | SGC ~ 2.5h|
+| Day 1                                                                                                            | Day 2                                                                                                          | Day 3         | Day 4                                                                                                              | Day 5                         |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| Intro to week 7 - [learning outcomes](./learning-outcomes.md) ~ 0.25h                                            | Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this) ~ 1h                  | Projects ~ 6h | Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation) ~ 1h | Code review ~ 1h              |
+| Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view) ~ 0.75h | Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session) ~ 2h |               | Projects ~ All day                                                                                                 | Respond to issues ~ 2h        |
+| Workshop on [password management](https://github.com/foundersandcoders/ws-password-management) ~ 2h              |                                                                                                                |               |                                                                                                                    | Presentation planning ~ 0.25h |
+| Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies) ~ 2h                                      |                                                                                                                |               |                                                                                                                    | Presentations ~ 1h            |
+| [Research afternoon](./research-afternoon.md) ~ 2h                                                               |                                                                                                                |               |                                                                                                                    | SGC ~ 2.5h                    |
 
 ### Day 1
 
@@ -47,6 +47,7 @@ Workshop on [password management](https://github.com/foundersandcoders/ws-passwo
 - 17:00 - 18:00 - External speaker or alumni project presentation
 
 ### Day 4
+
 - 10:00 - 11:00 - Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 - 11:00 - 13:00 - Projects
 
