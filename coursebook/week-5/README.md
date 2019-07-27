@@ -12,8 +12,8 @@
 | Day 1                              | Day 2                          | Day 3                   | Day 4                                        | Day 5                         |
 | ---------------------------------- | ------------------------------ | ----------------------- | -------------------------------------------- | ----------------------------- |
 | Intro to week 2 ~ 0.5h             | Modules workshop ~ 3.5h        | Intro to linters ~ 0.5h | Morning Challenge: Build Request module ~ 1h | Code review ~ 1h              |
-| Workshop on TDD Node server        | Research Afternoon ~ 4h        | Projects ~ 6h           | Projects ~ All day                           | Respond to issues ~ 2h        |
-| Intro to error handling ~ 0.5h     | Node shell workshop Pt. I ~ 1h |                         |                                              | Presentation planning ~ 0.25h |
+| Workshop on TDD Node server        | Node shell workshop Pt. I ~ 1h | Projects ~ 6h           | Projects ~ All day                           | Respond to issues ~ 2h        |
+| Intro to error handling ~ 0.5h     | Research Afternoon ~ 4h        |                         |                                              | Presentation planning ~ 0.25h |
 | Workshop on error handling ~ 2.25h |                                |                         |                                              | Presentations ~ 1h            |
 |                                    |                                |                         |                                              | SGC ~ 2.5h                    |
 
