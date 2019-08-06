@@ -11,12 +11,6 @@
 - What are some examples of useful express middleware and 
 how do you use them ([several useful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
 
-## Session-management in Express
-- What are sessions?
-- What are the different ways of managing sessions in express?
-- Create a minimal example of how to set up a session (FYI: pseudo code is
-  fine)
-
 ## Templating and Serverside rendering
 - What is server-side rendering?
 - What are the pros and cons of serverside rendering vs clientside
