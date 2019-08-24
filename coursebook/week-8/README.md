@@ -35,12 +35,13 @@
 
 ### Day 3
 
-- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
+- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
 - Project Planning
 - Group Project
 
 ### Day 4
 
+- [Animated App Drawer - Morning Challenge](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 - Group Project
 
 ### Day 5
