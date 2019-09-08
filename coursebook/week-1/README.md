@@ -18,8 +18,6 @@
 | Accessibility Workshop ~**1hr**         |                                          |                                |          | Stop Go Continues! ~**2.5h**       |
 | DOM Workshop ~**1hr**         |                                          |                                |          |        |
 
-
- ~**1hr**
  
 ### Links:
 
