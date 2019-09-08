@@ -12,11 +12,15 @@
 | Day 1                           | Day 2                                    | Day 3                          | Day 4    | Day 5                              |
 | ------------------------------- | ---------------------------------------- | ------------------------------ | -------- | ---------------------------------- |
 | Welcome fun ~**2hr**            | Array methods Morning Challenge ~**1hr** | CSS Morning Challenge ~**1hr** | Projects | Code review (with how to) ~**1hr** |
-| Intro To PP ~**1hr**            | Github Workshop ~**2hr**                 | Projects (all day!)            |          | Respond to issues ~**1.5h**        |
-| Accessibility Workshop ~**1hr** | Introduce Project and research ~**1hr**  |                                |          | Presentation planning ~**0.5h**    |
-| DOM Workshop ~**1hr**           | Research + Presentations ~**3hr**        |                                |          | Presentations ~**1h**              |
-| Welcome Dinner ~**1hr**         |                                          |                                |          | Stop Go Continues! ~**2.5h**       |
+| Linux Installation ~**2hr**            | Github Workshop ~**2hr**                 | Projects (all day!)            |          | Respond to issues ~**1.5h**        |
+| CMD Workshop ~**0.5hr** | DOM Manipulation Workshop ~**1hr**  |                                |          | Presentation planning ~**0.5h**    |
+| Intro To PP ~**0.5hr**           | Research + Presentations ~**3hr**        |                                |          | Presentations ~**1h**              |
+| Accessibility Workshop ~**1hr**         |                                          |                                |          | Stop Go Continues! ~**2.5h**       |
+| DOM Workshop ~**1hr**         |                                          |                                |          |        |
 
+
+ ~**1hr**
+ 
 ### Links:
 
 #### Day 1
@@ -25,14 +29,17 @@
 - [Schedule](../)
 - [Code of Conduct](../../code-of-conduct.md)
 - [House rules](../general/house-rules.md)
+- [Linux Installation](https://github.com/foundersandcoders/master-reference/tree/7e926e50fbd2c40c922a8f59167c6aa5fda199f7/coursebook/precourse#installation-list)
+- [CMD Workshop](https://learnpythonthehardway.org/book/appendixa.html)
 - [Introduction to Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/)
-- [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
+- [DOM manipulation](https://dom-tutorials.appspot.com/static/1.html)
 
 #### Day 2
 
 - [Array methods morning challenge](https://github.com/facn5/array-methods)
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 - [Introduce Project](./project.md)
 - [Introduce Research topics](./research-afternoon.md)
 - [Presentation Guidance](./presentation-guidance.md)
