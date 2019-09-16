@@ -15,7 +15,7 @@ You'll have most of day 3 and all of day 4 to work on your project. On day 5 we'
 
 ### Choosing your APIs
 
-See our list of recommended APIs [here](./recommended-apis.md).
+See our list of recommended APIs [here](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/recommended-apis.md).
 
 You can choose to use other APIs if you prefer, but make sure to do your research and check that what you want to do with the API is possible before you start to code.
 
