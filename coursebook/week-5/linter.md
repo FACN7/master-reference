@@ -18,10 +18,16 @@ The following instructions need to be followed by **one person on your team**
 
 `./node_modules/.bin/eslint --init` - initialises eslint on your project
 After this pick the following inputs:
-- [How would you like to configure ESLint?] `Use a popular style guide`
+- [How would you like to use ESLint?] `To check syntax, find problems, and enforce code style`
+- [What type of modules does your project use?] `CommonJS (require/exports)`
+- [Which framework does your project use?] `None of these`
+- [Does your project use TypeScript?] `No`
+- [Where does your code run?] `Node`
+- [How would you like to define a style for your project?] `Use a popular style guide`
 - [Which style guide do you want to follow?] `Airbnb`
-- [Do you use React?] `No`
 - [What format do you want your config file to be in?] `JSON`
+- [Would you like to install them now with npm?] `Y`
+
 
 ![linter gif](https://user-images.githubusercontent.com/14337958/33135285-e27b2d36-cf99-11e7-8fbf-f46f5a4148a8.gif)
 
