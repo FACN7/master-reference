@@ -15,9 +15,3 @@
 + Why would you use cookies vs local/session storage?
 + Demo a simple usage of localStorage and sessionStorage
 
-### Attacks
-+ What are the following types of attack?
-  + Man In The Middle (MITM)
-  + Cross Site Scripting (XSS)
-  + Cross Site Request Forgery (CSRF)
-+ How can you defend against each of them?
